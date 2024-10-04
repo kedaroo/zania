@@ -4,6 +4,11 @@ Hey Team Zania,
 
 This is a frontend-focused assignment. Let me walk you through it.
 
+This is what the app looks like:
+<img width="1280" alt="Screenshot 2024-10-04 at 4 54 45 PM" src="https://github.com/user-attachments/assets/e5a66862-b036-4d08-8fe7-f612b4f8197c">
+
+**The app is sprinkled with synthetic delays to show the loaders.**
+
 It’s a web app which contains cards. 
 
 These cards are displayed in a 3 column grid layout. 
